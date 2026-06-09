@@ -1,0 +1,8 @@
+name: emime
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The breath-spirit-life given by Olodumare at birth and returned at death, named as a gift rather than a possession.
+dependsOn: [youspeak, me, chayimme, ifeqing]
